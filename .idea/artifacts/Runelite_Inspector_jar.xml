@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Runelite Inspector:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Runelite_Inspector_jar</output-path>
+    <root id="archive" name="Runelite Inspector.jar">
+      <element id="module-output" name="Runelite Inspector" />
+    </root>
+  </artifact>
+</component>
